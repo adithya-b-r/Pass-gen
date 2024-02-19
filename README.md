@@ -7,7 +7,7 @@ This bash script generates random passwords with a specified length. The script 
 Run the script with the desired password length as an argument:
 
 ```bash
-./random_password_generator.sh <length>
+./pass.sh <length>
 ```
 
 Replace `<length>` with the desired length of the password.
@@ -24,7 +24,7 @@ Replace `<length>` with the desired length of the password.
 ## Example
 
 ```bash
-./random_password_generator.sh 12
+./pass.sh 12
 ```
 
 This will generate and display a random password with a length of 12 characters.
